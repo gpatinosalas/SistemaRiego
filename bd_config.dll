@@ -1,0 +1,6 @@
+org.postgresql.Driver
+Jdbc:postgresql://localhost:5432/bd_SistemaRiego
+postgres
+gu$t4v0p4t1n0
+127.0.0.1
+5432
